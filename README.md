@@ -7,10 +7,8 @@ In this project, I simulate a small-scale honeypot that attracts real-world traf
 # Azure Components Utilized
 
 - Azure Virtual Network (VNet)
-- Azure Network Security Group (NSG)
-- Virtual Machines (2x Windows, 1x Linux)
+- Virtual Machine
 - Log Analytics Workspace with Kusto Query Language (KQL) Queries
-- Azure Key Vault
 - Azure Storage Account
 - Microsoft Sentinel
 - Microsoft Defender for Cloud
